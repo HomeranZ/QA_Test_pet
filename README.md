@@ -1,2 +1,33 @@
-# QA_Test_pet
-Manual QA portfolio: test plan, test cases, bug reports)
+# Manual QA Portfolio — SauceDemo
+
+Портфолио ручного тестирования веб-приложения [SauceDemo](https://www.saucedemo.com/).
+
+## Что внутри
+
+- **[Тест-план](docs/test-plan.md)** — стратегия, scope, критерии завершения.
+- **[Чек-лист](docs/checkList.md)** — 15 ключевых проверок.
+- **[Тест-кейсы](test-cases/Login-and-Cart.md)** — 5 детальных сценариев (вход, корзина).
+- **[Баг-репорты](bug-reports/Bugs.md)** — 3 найденных дефекта.
+
+## Что тестировалось
+
+- Авторизация (валидные/невалидные данные).
+- Каталог товаров (отображение, сортировка).
+- Корзина (добавление, удаление, изменение количества).
+- Оформление заказа (checkout flow).
+
+## Инструменты
+
+- Chrome DevTools (Network, Console).
+- Техники тест-дизайна: КЭ (классы эквивалентности), ГЗ (граничные значения).
+- JIRA (для баг-репортов).
+
+## Окружение
+
+- macOS, Chrome 120+
+- Разрешение 1920x1080
+- Тестовые пользователи: `standard_user` / `secret_sauce`
+
+## Контакты
+
+- GitHub: [HomeranZ](https://github.com/HomeranZ)
