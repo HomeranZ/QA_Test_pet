@@ -25,8 +25,7 @@
 **Вложения:** 
 *(Скриншоты карточки товара в каталоге и в корзине прикреплены)*
 <img width="546" height="244" alt="Снимок экрана 2026-11-03 в 15 31 19" src="https://github.com/user-attachments/assets/a9f75aa3-2457-4158-ac36-531d0c00a521" />
-<img width="1266" height="630" alt="Снимок экрана 2026-11-03 в 15 39 48" src="https://github.com/user-attachments/assets/44d780ec-ee4d-4a82-975a-cc9ba401737a" />
-
+<img width="1062" height="287" alt="Снимок экрана 2026-11-03 в 15 51 39" src="https://github.com/user-attachments/assets/e3eb6dfa-cf6f-4f9c-964f-f13939e363da" />
 
 ---
 
